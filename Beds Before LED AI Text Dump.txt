@@ -1,0 +1,95 @@
+This is the chat GPT convosation that i used when i was brainstorming the name for this mod.
+I decied to share this because some of these names are quite funny.
+ 
+For full transparency this mod did not use AI for the coding part.
+ 
+I am not good at naming mods anything besides what they do.
+Hospital Beds Before LEDs is quite a mundane mod that only does one thing and i wanted it to have a unique name but my ability to conjure up mod names is limited. i have never been good at giving things names and just on a limb i deiced to see what ideas ChatGPT and some of these ideas are don't really make any sense being a name of a mod but some are quite clever.
+ 
+Just to put this out there. I will never use AI in a major part of creating a mod (C#, XML and Textures).
+If i need art for a mod i either make it or i pay someone to do it.
+ 
+I imagine this AI stuff may upset a few people with me using it to name a mod.
+I am sorry to those groups but i understand why you dislike AI and its use.
+ 
+anyway hope you enjoy this list of some frankly ridiculous mod names: 
+ 
+ 
+ 
+Me: Generate a name for a Rimworld mod that removes the requirement for the player to research Microelectronics in order to construct a Hospital bed
+ 
+GPT:
+Here are some RimWorld mod name ideas for removing the Microelectronics requirement from Hospital Beds:
+ 
+### Straightforward Names:
+ 
+* **No Research for Hospital Beds**
+* **Hospital Beds Without Microelectronics**
+* **Simplified Hospital Bed Access**
+* **Early Hospital Beds**
+ 
+### Thematic / Lore-Friendly Names:
+ 
+* **Field Medicine First**
+* **Primitive Care, Advanced Beds**
+* **Bush Doctor Beds**
+* **Medical Priority Protocol**
+ 
+### Catchy / Modder-Style Names:
+ 
+* **Bedside Manner**
+* **ER: Early Release**
+* **Hospitals First**
+* **No Tech? No Problem! (Hospital Beds)**
+ 
+Would you like a serious or more humorous tone? I can tailor it further based on that.
+ 
+Me: Add a more comedic tone
+ 
+GPT:
+Sure! Here are some **comedic and RimWorld-flavored** mod name ideas that keep the tone light but clear:
+ 
+### Comedic RimWorld Mod Names:
+ 
+* **Hospital Beds Are Not Rocket Science**
+* **IKEA Hospital Beds**
+* **Band-Aids Before Beep-Boops**
+* **No Chips, Just Chisels (Hospital Beds Edition)**
+* **Doctor Said Beds, Not Satellites**
+* **Early Beds, Late Tech**
+* **Who Needs Microelectronics Anyway?**
+* **Beds Before Bits**
+* **Hospital Bed Speedrun (No Tech%)**
+* **Just Let Me Build the Damn Bed**
+ 
+Want something even more absurd or meme-y? I can go full chaos mode if you want.
+ 
+Me: go full chaos mode
+ 
+GPT: 
+Oh, you asked for it. Here's **full chaos mode** — unhinged, over-the-top RimWorld mod names that scream *"Randy Random made me do it."*
+ 
+### 🔥 Full Chaos RimWorld Mod Names (Hospital Bed Edition):
+ 
+* **I Don’t Need WiFi to Save Lives**
+* **Hospital Bed% Glitchless Skip**
+* **Beep-Boop? Nah, Just Bed-Go-Nap**
+* **Advanced Medicine, Medieval Vibes**
+* **I Built a Hospital Bed with a Rock and a Dream**
+* **Beds Before LEDs** (Note: The mod name is based off this one.)
+* **Tech Tree? I Barely Know Her**
+* **DIY ICU: The Mod**
+* **Ctrl+Alt+Bed**
+* **Surgery on a Wooden Table Was a Mistake**
+* **Why Is a Bed Locked Behind NASA?**
+* **Microschmelectronics**
+* **Doctor House Didn’t Need Microchips**
+* **Craft Hospital Beds Like It’s 1300 AD**
+* **I Just Wanna Fix Carl’s Leg, Karen**
+* **Sawbones Don’t Code**
+* **No Circuits, Just Sutures**
+* **Hospitals > Hacking**
+* **Plasteel Bed With No Bachelor's Degree**
+ 
+Let me know if you want a mod description to go with any of these. I’m ready to descend further into RimWorld chaos.
+ 
