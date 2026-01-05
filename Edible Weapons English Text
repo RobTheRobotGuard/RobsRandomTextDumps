@@ -19,12 +19,14 @@ Anyone who is not allergic to gallium.
 Anyone who is willing for their meal to taste like burnt rubber and chemfuel.
 
 [h1] Actual Compatibility [/h1]
-
 Any weapon that is classed as a ranged weapon or melee weapon
 Melee weapons can be eaten but do not provide any nutritional value due to Rimworlds spaghetti code.
 Combat Extended is supported
-Should be universally compatible however that remains to be seen due to the nature of this mod.
 
+Ecotech Incompatible | The weapon lifetime system present in that mod is likely preventing the items from that mod from being consumed correctly.
+
+
+Should be universally compatible with mods but some use lots of custom systems and features which may not play nicely with this mod
 [h1] Backstory [/h1]
 
 It was 3:30 AM on Tuesday and I thought this would be a funny mod to make. So, I spent 3 hours developing it instead of trying to sleep. I need to fix my sleep schedule. 
