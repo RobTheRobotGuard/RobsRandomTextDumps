@@ -2,34 +2,22 @@
 
 
 
-**ExtraBuildings**
+**RobTRGBuildings**
 | Building | Cost | Tech | Upkeep | Stats |
 |---|---|---|---|---|
 | Taxation Office | 1000 | Undefined | 0 | taxBasePercentage +15, happinessLost +1 |
 | Fortress | 6000 | Industrial | 1000 | militaryBaseLevel +3 |
 | Tactics Center | 3000 | Industrial | 300 | militaryCombatEfficiency x1.3 |
 | Victorian-style Workhouse | 1200 | Medieval | 0 | workerMax +6, workerOverMax +4, happinessLost +1, unrestGained +0.5 |
-
-**BuildingPackTwo**
-| Building | Cost | Tech | Upkeep | Stats |
-|---|---|---|---|---|
 | A meagre amount of turrets | 1000 | Industrial | 10 | militaryBaseLevel +1 |
 | A decent amount of turrets | 2000 | Industrial | 100 | militaryBaseLevel +2 |
 | A large amount of turrets | 4000 | Industrial | 500 | militaryBaseLevel +4, happinessLost +0.5 |
 | A huge amount of turrets | 7000 | Spacer | 1250 | militaryBaseLevel +6, happinessLost +1 |
-
-**MafiaBuildings**
-| Building | Cost | Tech | Upkeep | Stats |
-|---|---|---|---|---|
 | Gabagool Farm | 1000 | Undefined | 20 | Food +1, Animals -0.5 |
 | Local Moofia | 4000 | Undefined | 500 | militaryCombatEfficiency x1.3, militaryBaseLevel +1, Animals +0.5, Food -1, AnimalsMulti x1.25 |
-
-**PleasureBar**
-| Building | Cost | Tech | Upkeep | Stats |
-|---|---|---|---|---|
 | Pleasure Bar | 1000 | Undefined | 100 | happinessGained +1, FoodMulti x0.85 |
 
-**MoreBuildingDefs**
+**Empire More Buildings**
 | Building | Cost | Tech | Upkeep | Stats |
 |---|---|---|---|---|
 | Grand Skyscraper | 5000 | Spacer | 1200 | workerMax +16, workerOverMax +10 |
