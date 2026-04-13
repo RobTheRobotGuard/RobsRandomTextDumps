@@ -36,7 +36,7 @@
 | Impressive Town Hall | 600 | Undefined | 130 | happinessGained +0.7 |
 | Great Park | 1200 | Medieval | 320 | happinessGained +1.4 |
 | Ministry of Truth | 2000 | Industrial | 300 | unrestGainedMulti x0.5, loyaltyLostMulti x0.5, happinessGained +0.5 |
-| University | 2000 | Medieval | 200 | workerCost +10, all productionMulti x1.3, unrestGainedMulti x1.2, loyaltyLostMulti x1.2 |
+| Training Center | 5000 | Medieval | 500 | workerCost +25, all productionMulti x1.3, unrestGainedMulti x1.2, loyaltyLostMulti x1.2 |
 
 **GoldMinerMacs — PsychoidAndSmokes**
 | Building | Cost | Tech | Upkeep | Stats |
