@@ -74,4 +74,4 @@
 | Department of Oppression | 2500 | Medieval | 100 | happinessLost +1, workerOverMax -1, unrestLost +1 |
 | Slave Market | 2500 | Medieval | -1000 | workerOverMax -5, unrestLost -0.5 |
 | Resettlement Committee | 2500 | Medieval | 100 | workerOverMax -2, unrestLost -0.25, createSettlementMulti -0.1 |
-| Raider Camp | 2500 | Medieval | 100 | happinessLost +0.5, loyaltyGained +1 |
+| Raider Camp | 2500 | Medieval | 100 | happinessLost +0.5, unrestlostbase 1 |
