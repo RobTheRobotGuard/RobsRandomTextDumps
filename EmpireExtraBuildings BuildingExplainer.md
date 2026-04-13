@@ -75,3 +75,15 @@
 | Slave Market | 2500 | Medieval | -1000 | workerOverMax -5, unrestLost -0.5 |
 | Resettlement Committee | 2500 | Medieval | 100 | workerOverMax -2, unrestLost -0.25, createSettlementMulti -0.1 |
 | Raider Camp | 2500 | Medieval | 100 | happinessLost +0.5, Unrestloss -1 |
+
+**Ammuntion upgrade line**
+| Building                                | Cost | Tech       | Upkeep | Stats                                                              | Prerequisites                | Next tier                        |
+| --------------------------------------- | ---- | ---------- | ------ | ------------------------------------------------------------------ | ---------------------------- | -------------------------------- |
+| Fletchers Hut                           | 500  | Undefined  | 10     | Weapons_ProductionMultiplier x1.10                                 | None                         | Fletchers Guild                  |
+| Fletchers Guild                         | 1000 | Medieval   | 20     | Weapons_ProductionMultiplier x1.20, militaryCombatEfficiency x1.05 | Fletchers Hut                | Low Cal / Med Cal / Energy Ammo  |
+| Low Cal Ammunition Factory              | 1500 | Industrial | 50     | Weapons_ProductionMultiplier x1.30, militaryCombatEfficiency x1.15 | Fletchers Guild              | Med Cal / High Cal / Energy Ammo |
+| Med Cal Ammunition Factory              | 2500 | Industrial | 75     | Weapons_ProductionMultiplier x1.40, militaryCombatEfficiency x1.25 | Fletchers Guild              | High Cal / Energy Ammo           |
+| High Cal Ammunition Factory             | 4500 | Industrial | 100    | Weapons_ProductionMultiplier x1.50, militaryCombatEfficiency x1.40 | Fletchers Guild              | Energy Ammo                      |
+| Charge Ammunition Factory               | 6000 | Spacer     | 250    | Weapons_ProductionMultiplier x1.75, militaryCombatEfficiency x1.50 | Low Cal / Med Cal / High Cal | Giga Factory                     |
+| Ammunition Super Factory (Giga Factory) | 8000 | Ultra      | 500    | Weapons_ProductionMultiplier x2.00, militaryCombatEfficiency x2.00 | Energy Ammo                  | None                             |
+
