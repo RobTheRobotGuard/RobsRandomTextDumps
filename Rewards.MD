@@ -8,6 +8,10 @@ Reward tiers, from least to most rare: **Poor** -> **Normal** -> **Good** -> **E
 
 Item and pawn names below are auto-generated from the source mods' internal identifiers, so a few may read slightly technical rather than as clean in-game names.
 
+Some mods on this list are not on the Steam Workshop.
+Mainly these non Steam Workshop mods originate from Loverslab.
+Although there are only a few mods that are from Loverslab and their account for under 10 entrys on this list.
+
 ---
 
 ## Table of Contents
