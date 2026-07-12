@@ -4,6 +4,10 @@ Every mod this addon adds `MayRequire`-gated rewards for. None of this addon's c
 
 **289 mods supported, 817 reward defs total.**
 
+Some mods on this list are not on the Steam Workshop.
+Mainly these non Steam Workshop mods originate from Loverslab.
+Although there are only a few mods that are from Loverslab and their account for under 10 entrys on this list.
+
 | Mod Name | PackageID | Rewards Added |
 |---|---|---|
 | 2nd Generation hydroponics | TheVillageGuy.Gen2Hydro.1 | 1 |
