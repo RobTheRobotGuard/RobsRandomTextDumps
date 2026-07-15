@@ -3780,7 +3780,33 @@ Grants: 1x AE Core.
 
 *Requires: `phaneron.basic.storage`*
 
-**Flat-Pack Storage Delivery** -- *Normal / Misc*
+**Flat-Pack Storage Delivery** -- *Normal / Misc*## Vanilla Vehicles Expanded
+
+*Requires: `OskarPotocki.VanillaVehiclesExpanded`*
+
+**Box o' Car Parts** -- *Poor / Resources*
+
+A crate of assorted automotive parts tumbles in -- engine blocks, wheels, batteries, the works. Somebody's garage sale just got raided.
+
+Grants: 6x random pick from: VVE Engine Block, VVE Car Alternator, VVE Car Exhaust, VVE Car Suspension, VVE Car Wheel, VVE Car Battery, VVE Car Fuel Tank, VVE Car Transmission, VVE Car Radiator, VVE Car Wiring.
+
+**Frog Kit (No Manual)** -- *Normal / Resources*
+
+A flat-packed Frog transport pod thuds down in a stack of crates -- every part you need to assemble your own single-seat, orbit-capable dropcraft, straight from the factory. Somebody forgot to include the instructions, so you're on your own for assembly.
+
+Grants: 1x VVE Engine Block; 1x VVE Car Alternator; 9x VVE Car Exhaust; 3x VVE Car Suspension; 30x Steel; 2x Component Industrial.
+
+**Toad Kit (No Manual)** -- *Good / Resources*
+
+A pallet of Toad deployment pod parts crashes through your roof, blast plating and all. It's everything you need to build your own squad-and-mortar drop pod -- assuming someone on the crew can read a wiring diagram they don't have.
+
+Grants: 1x VVE Engine Block; 2x VVE Car Alternator; 12x VVE Car Exhaust; 4x VVE Car Suspension; 160x Steel; 6x Component Industrial.
+
+**Bulldog Kit (No Manual)** -- *Excellent / Resources*
+
+An entire Bulldog armored combat vehicle arrives disassembled, crate after crate of armor plate, wheels, and engine parts. All the pieces are here. The manual, notably, is not.
+
+Grants: 1x VVE Engine Block; 2x VVE Car Alternator; 4x VVE Car Exhaust; 10x VVE Car Suspension; 14x VVE Car Wheel; 1x VVE Car Transmission; 2x VVE Car Radiator; 2x VVE Car Fuel Tank; 440x Steel; 16x Component Industrial.
 
 A shipment of crates arrives -- to hold all the other shipments. Somewhat recursive, but undeniably useful.
 
@@ -6376,25 +6402,25 @@ Grants: Triggers event: VSE Man In The Coat Join.
 
 A crate of assorted automotive parts tumbles in -- engine blocks, wheels, batteries, the works. Somebody's garage sale just got raided.
 
-Grants: 6x random pick from: VVE Car Parts, VVE Engine Block, VVE Car Alternator, VVE Car Exhaust, VVE Car Suspension, VVE Car Wheel, VVE Car Battery, VVE Car Fuel Tank, VVE Car Transmission, VVE Car Radiator, VVE Car Wiring.
+Grants: 6x random pick from: VVE Engine Block, VVE Car Alternator, VVE Car Exhaust, VVE Car Suspension, VVE Car Wheel, VVE Car Battery, VVE Car Fuel Tank, VVE Car Transmission, VVE Car Radiator, VVE Car Wiring.
 
-**Free Wheels** -- *Normal / Misc*
+**Frog Kit (No Manual)** -- *Normal / Resources*
 
-An amphibious runabout rolls (and floats) straight into your base. No plates, no paperwork, just vibes.
+A flat-packed Frog transport pod thuds down in a stack of crates -- every part you need to assemble your own single-seat, orbit-capable dropcraft, straight from the factory. Somebody forgot to include the instructions, so you're on your own for assembly.
 
-Grants: 1x VVE Frog.
+Grants: 1x VVE Engine Block; 1x VVE Car Alternator; 9x VVE Car Exhaust; 3x VVE Car Suspension; 30x Steel; 2x Component Industrial.
 
-**Dune Buggy Delivery** -- *Good / Combat*
+**Toad Kit (No Manual)** -- *Good / Resources*
 
-An armed Toad buggy skids to a halt outside your walls, engine still running, turret already loaded.
+A pallet of Toad deployment pod parts crashes through your roof, blast plating and all. It's everything you need to build your own squad-and-mortar drop pod -- assuming someone on the crew can read a wiring diagram they don't have.
 
-Grants: 1x VVE Toad.
+Grants: 1x VVE Engine Block; 2x VVE Car Alternator; 12x VVE Car Exhaust; 4x VVE Car Suspension; 160x Steel; 6x Component Industrial.
 
-**Heavy Metal** -- *Excellent / Combat*
+**Bulldog Kit (No Manual)** -- *Excellent / Resources*
 
-A Bulldog armored combat vehicle rumbles in, fully fueled and ready to flatten whatever's left of the wave that just hit you.
+An entire Bulldog armored combat vehicle arrives disassembled, crate after crate of armor plate, wheels, and engine parts. All the pieces are here. The manual, notably, is not.
 
-Grants: 1x VVE Bulldog.
+Grants: 1x VVE Engine Block; 2x VVE Car Alternator; 4x VVE Car Exhaust; 10x VVE Car Suspension; 14x VVE Car Wheel; 1x VVE Car Transmission; 2x VVE Car Radiator; 2x VVE Car Fuel Tank; 440x Steel; 16x Component Industrial.
 
 ---
 
