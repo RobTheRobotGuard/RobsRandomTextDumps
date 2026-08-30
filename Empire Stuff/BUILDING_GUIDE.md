@@ -12,6 +12,8 @@ Legend: **Tier** = position in the chain's upgrade path (I = base building). **C
 
 Every other chain works with just the base game plus Empire Refactored.
 
+**Cities & Fields settlement types:** each chain below has a note on where its buildings can be built if the optional Empire Refactored: Cities & Fields mod is active. Without Cities & Fields, every building in this mod is buildable in any settlement type regardless of what's noted here; the restriction only exists in `Compat/CitiesAndFields/Patches/SettlementTypeRestrictions.xml`, which only loads when that mod is active. A chain with no note is unrestricted even with Cities & Fields installed.
+
 ---
 
 ## Chain 1: Watch & Warning
@@ -57,6 +59,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 3 | **Public Welfare Board** | Industrial | 2400 | 115 | A welfare board that looks after overworked labourers, softening the toll of long shifts even if it costs a bit more to keep them on. |
 | 4 | **Integrated Utility Grid** | Spacer | 5800 | 240 | A unified grid of water, waste, and climate systems, letting the settlement house and support many more workers in comfort. |
 | 5 | **Homeostasis Core** | Ultra | 13000 | 430 | A self-balancing life-support core that keeps every habitat block at a perfect equilibrium of air, water, and comfort. |
+
+**With Cities & Fields active:** buildable only in City or any rural settlement (Farming Hamlet, Mining Camp, Lumber Camp, Ranch, Chemfuel Refinery, Herbalist Camp, or Power Plant).
 
 **Branch points:**
 - **Public Bathhouse** upgrades into: Sewer Network, Public Welfare Board
@@ -106,6 +110,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 4 | **PMC Headquarters** ⚔️ | Spacer | 6500 | 280 | A proper private military corporation headquarters, running mercenary contracts as a disciplined, profitable business. |
 | 5 | **Corporate War Machine** ⚔️ | Ultra | 17000 | 600 | A sprawling military-industrial complex that fields, arms, and heals mercenary forces on an industrial scale. |
 
+**With Cities & Fields active:** buildable only in City.
+
 **Branch points:**
 - **Free Company Barracks** upgrades into: Condottieri Field Hospital, Contract Brokerage
 
@@ -121,6 +127,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 3 | **Royal Mint** | Industrial | 3000 | 120 | A royal mint that strikes coin of exceptional purity, making every tithe paid worth that much more. |
 | 4 | **Central Bank** | Spacer | 6500 | 270 | A central bank overseeing the settlement's entire fiscal apparatus, from taxation to tithe to reserves. |
 | 5 | **Algorithmic Treasury** | Ultra | 15000 | 490 | A treasury run by predictive algorithms, optimizing tax policy and tithe collection down to the last decimal. |
+
+**With Cities & Fields active:** buildable only in City.
 
 **Branch points:**
 - **Exchequer** upgrades into: Revenue Service, Royal Mint
@@ -185,6 +193,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 3 | **Resonance Laboratory** | Spacer | 6000 | 255 | A laboratory studying gravitic resonance patterns, unlocking both greater yield and genuine scientific insight. |
 | 4 | **Singularity Yard** | Ultra | 16000 | 560 | A yard built around a stabilized gravitic singularity, turning raw ore and insight alike into resources at an industrial scale. |
 
+**With Cities & Fields active:** buildable only in Mining Camp or Chemfuel Refinery.
+
 **Branch points:**
 - **Gravitic Foundry** upgrades into: Resonance Laboratory, Mass Fabricator
 
@@ -217,6 +227,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 4 | **Broadcast Spectacle Network** | Spacer | 6000 | 250 | A broadcast network beaming every match across the settlement and beyond, turning spectacle into a steady source of revenue. |
 | 5 | **Interstellar Circuit** | Ultra | 14000 | 470 | A stop on the interstellar sporting circuit, drawing spectators and coin from across known space. |
 
+**With Cities & Fields active:** buildable only in City.
+
 **Branch points:**
 - **Fighting Pits** upgrades into: Grand Stadium, Colosseum
 
@@ -232,6 +244,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 3 | **Penal Colony** | Industrial | 2600 | 100 | A hard penal colony that puts convicts straight to work, cheap and plentiful but resentful of their lot. |
 | 4 | **High Court** | Spacer | 6000 | 245 | A high court whose rulings carry real weight, giving the settlement's law both teeth and legitimacy. |
 | 5 | **Arbiter Core** | Archotech | 15000 | 500 | An impartial archotech arbiter that renders judgment instantly and without bias, keeping the settlement's law airtight. |
+
+**With Cities & Fields active:** buildable only in City.
 
 **Branch points:**
 - **Circuit Assize** upgrades into: House of Correction, Penal Colony
@@ -265,6 +279,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 4 | **Molecular Reclaimer** | Spacer | 6000 | 250 | A reclaimer that breaks salvage down to the molecular level, extracting metal and fuel with almost nothing left over. |
 | 5 | **Closed Matter Loop** | Ultra | 14500 | 480 | A closed-loop matter reclaimer that recycles nearly everything the settlement discards back into useful material. |
 
+**With Cities & Fields active:** buildable only in Mining Camp or Chemfuel Refinery.
+
 **Branch points:**
 - **Scrapyard** upgrades into: Reclamation Plant, Pyrolysis Works
 
@@ -296,6 +312,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 3 | **Trade Legation** | Industrial | 2700 | 115 | A trade legation negotiating favourable terms with every merchant that passes through. |
 | 4 | **Foreign Ministry** | Spacer | 6500 | 270 | A full foreign ministry running trade and diplomacy together as one coordinated arm of the Empire. |
 | 5 | **Interstellar Consulate** | Ultra | 15500 | 520 | An interstellar consulate representing the Empire's interests across known space, equal parts embassy and trading house. |
+
+**With Cities & Fields active:** buildable only in City.
 
 **Branch points:**
 - **Guest Hall** upgrades into: Trade Legation, Foreign Chancellery
@@ -391,6 +409,8 @@ Every other chain works with just the base game plus Empire Refactored.
 | 3 | **Relic Vault** | Industrial | 2700 | 115 | A vault housing holy relics, drawing devoted pilgrims willing to pay handsomely for a glimpse. |
 | 4 | **Grand Basilica** | Spacer | 6200 | 260 | A grand basilica anchoring the pilgrimage route to the settlement's established faith, whichever form it has taken. |
 | 5 | **Stellar Pilgrimage Terminus** | Ultra | 15000 | 500 | A terminus welcoming pilgrims arriving from other worlds entirely, the faith having long since outgrown a single planet. |
+
+**With Cities & Fields active:** buildable only in City.
 
 **Branch points:**
 - **Pilgrim Hostel** upgrades into: Great Pilgrimage Route, Relic Vault
